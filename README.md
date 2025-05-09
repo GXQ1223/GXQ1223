@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GXQ1223
+- 👋 Hi, I’m Miles Guo
 - 👀 I’m interested in AI, Design, DSA, coding, doing project and running marathons!
 - 🌱 I’m currently learning computer science in University of Pennsylvania
 - 💞️ I’m looking to collaborate on exciting projects on utilizing AI to empower programmers, designers
